@@ -1,0 +1,8 @@
+table,tr,td
+{
+	margin: auto;
+	border: 0px;
+	padding: 0px;
+	border-collapse:collapse;
+	background: Cornsilk;
+}
